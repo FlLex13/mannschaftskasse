@@ -1,4 +1,4 @@
-# ![FCF Logo](fcf_logo.jpg) Strafenkatalog FC Fraunberg ![FCF Logo](fcf_logo.jpg)
+# Strafenkatalog FC Fraunberg
 
 ## Training
 
